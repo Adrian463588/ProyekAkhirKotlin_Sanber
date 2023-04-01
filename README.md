@@ -7,6 +7,6 @@
 Berikut merupakan tapilin saat menggunakan aplikasi :
 
 
-![2023-04-01 22-10-38.gif]
 
+![Uploading 2023-04-01 22-10-38.gif…]()
 
