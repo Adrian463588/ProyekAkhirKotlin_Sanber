@@ -1,6 +1,6 @@
 # ProyekAkhirKotlin_Sanber
 
-###Merupakan proyek akhir dari bootcamp Kotlin Mobile Apps Development (Batch 43) Sanbercode
+### Merupakan proyek akhir dari bootcamp Kotlin Mobile Apps Development (Batch 43) Sanbercode
 
 
 
