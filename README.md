@@ -13,6 +13,5 @@ Berikut merupakan tapilin saat menggunakan aplikasi :
 
 Dan berikut saya update aplikasi sebelumnya sehingga menerapkan Local Data Persistant dengan penambahan fitur favorite
 
+![2023-04-05 01-20-01-min](https://user-images.githubusercontent.com/79238080/230073920-2afc0e0a-6c41-41d4-aa84-dcbc2a5f1d32.gif)
 
-
-![2023-04-05 01-20-01-min](https://user-images.githubusercontent.com/79238080/230073045-e4c19a0f-1a52-4f00-9ace-add26b92dfb2.gif)
